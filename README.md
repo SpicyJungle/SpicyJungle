@@ -1,6 +1,6 @@
 👋 Hello, I'm SpicyJungle
 
-I'm a 16 year old hobby developer from Norway 🇳🇴.
+I'm a 17 year old hobby developer from Norway 🇳🇴.
 I primarily use Javascript, and do both backend and frontend with React.
 
 Some of my projects ⤵️
